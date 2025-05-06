@@ -1,0 +1,9 @@
+## 📄 Dataset
+
+**Dataset**: MNIST Handwritten Digits  
+- **Source**: [OpenML MNIST 784](https://www.openml.org/d/554)  
+- **Description**:  
+  - 60,000 training images  
+  - 10,000 test images  
+  - Grayscale format (28x28 pixels)  
+  - Each image represents a handwritten digit (0–9)
